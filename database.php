@@ -2,5 +2,5 @@
   // 重要：
   // このファイルのファイル名を database.php に変更すること。
   // username, password を、それぞれ自分のデータベースユーザ名・パスワードに変更すること。
-  $db = mysqli_connect("iss.edu.tama.ac.jp", "username", "password", "shared");
+  $db = mysqli_connect("iss.edu.tama.ac.jp", "21411068yk", "Michaeljacson5", "shared");
  ?>
